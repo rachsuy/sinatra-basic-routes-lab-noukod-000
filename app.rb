@@ -8,6 +8,6 @@ class App < Sinatra::Base
     "My name is Rach"
   end
   
-  get '/'
+  get '/hometown'
   
 end
