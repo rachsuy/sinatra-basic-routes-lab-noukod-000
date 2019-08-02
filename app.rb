@@ -12,6 +12,6 @@ class App < Sinatra::Base
     "My hometown is P-A-P"
   end
   
-  get '/'
+  get '/favorite-song'
   
 end
